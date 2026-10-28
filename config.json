@@ -1,8 +1,8 @@
 {
   "kill_switch": false,
   "maintenance_message": "Estamos passando por uma manutenção rápida para melhorar o app. Voltamos em instantes!",
-  "latest_version": "1.0.26",
+  "latest_version": "1.0.27",
   "min_version": "1.0.0",
-  "apk_url": "https://github.com/Breno2840/nyxo-updates/releases/download/v1.0.26/nyxo-release-26.apk",
+  "apk_url": "https://github.com/Breno2840/nyxo-updates/releases/download/v1.0.27/nyxo-release-27.apk",
   "changelog": "• Correção do bug da porta no formulário de conexão.\n• Novos ícones para os tipos de arquivo.\n• Melhorias de estabilidade."
 }
