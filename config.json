@@ -1,5 +1,5 @@
 {
-  "kill_switch": true,
+  "kill_switch": false,
   "maintenance_message": "Estamos passando por uma manutenção rápida para melhorar o app. Voltamos em instantes!",
   "latest_version": "1.0.37",
   "min_version": "1.0.0",
